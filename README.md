@@ -5,12 +5,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&exclude_repo=kj021.github.io&layout=compact&theme=tokyonight" />
-</a>
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kj021&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+![kj021's github stats](https://github-readme-stats.vercel.app/api?username=kj021&show_icons=true)
+[![kj021's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kj021)
