@@ -5,4 +5,6 @@
 ![kj021's github stats](https://github-readme-stats.vercel.app/api?username=kj021&show_icons=true)
 [![kj021's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kj021)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kj021&theme=flat&column=7)](https://github.com/kj021/)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
