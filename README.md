@@ -6,7 +6,7 @@
 <h3 align="center"항상 도전하며 <b>상상을 현실로</b> 만드는, 기록하는 개발자 <b>장규진</b>입니다.</br> </h3>
 </br></br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </br></br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
