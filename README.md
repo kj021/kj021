@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
+
+HI, I"M KYUJIN
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&exclude_repo=kj021.github.io&layout=compact&theme=tokyonight" />
