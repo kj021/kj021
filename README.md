@@ -8,11 +8,10 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </br></br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</br></br>
 
-![kj021's github stats](https://github-readme-stats.vercel.app/api?username=kj021&show_icons=true)
-[![kj021's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kj021)
+![kj021's github stats](https://github-readme-stats.vercel.app/api?username=kj021&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+[![kj021's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact)](https://github.com/kj021)
+
 
 # 💪Skills
 ### Platforms & Languages
