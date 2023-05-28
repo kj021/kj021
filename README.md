@@ -1,10 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=858f9f&height=200&section=header&text=KyuJin%20GITHUB&fontSize=90" />
 
-
+### 👋 반갑습니다!
 <div align="center">
   
-<h2 align="center"항상 도전하며 <b>상상을 현실로</b> 만드는, 성장하는 개발자 <b>장규진</b>입니다</br> </h2>
+<h2 align="center" 항상 도전하며 상상을 현실로 만드는, <b>성장하는 개발자 장규진</b>입니다</br> </h2>
 </br></br>
+
+* 💻 아직 배울게 많은 AI 엔지니어입니다.
+* 🦾 대용량 데이터 관련 NLP에 관심이 많습니다.
+* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </br></br>
