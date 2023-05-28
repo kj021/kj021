@@ -5,6 +5,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&exclude_repo=kj021.github.io&layout=compact&theme=tokyonight" />
+</a>
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=kj021&theme=tokyonight&show_icons=true" width="42%" />
