@@ -1,33 +1,14 @@
-### Hi I'm KyuJin 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-# GitHub Stats
-> Generate visualizations of GitHub user and repository statistics using GitHub Actions.
-
-<br/>
-
-![](https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg)
-
-
-
-<br/>
-
-> NOTE: This repository is my extension of [jstrieb/github-stats](https://github.com/jstrieb/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent).
-
-
-<br/>
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&exclude_repo=kj021.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<img src="https://raw.githubusercontent.com/kj021/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kj021&theme=nord)](https://github.com/kj021/github-readme-activity-graph)
 
-</a>
-
-<br/>
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
