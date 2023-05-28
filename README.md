@@ -8,6 +8,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kj021&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-<img src="https://raw.githubusercontent.com/kj021/kj021/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
