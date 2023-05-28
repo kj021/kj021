@@ -8,8 +8,6 @@
 ![kj021's github stats](https://github-readme-stats.vercel.app/api?username=kj021&show_icons=true)
 [![kj021's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kj021)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kj021&theme=flat&column=7)](https://github.com/kj021/)
-
 # 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
