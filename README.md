@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=858f9f&height=200&section=header&text=KyuJin%20GITHUB&fontSize=90" />
 
-### 👋 반갑습니다!
+
 <div align="center">
-  
+### 👋 반갑습니다!  
 <h2 align="center" 항상 도전하며 상상을 현실로 만드는, <b>성장하는 개발자 장규진</b>입니다</br> </h2>
 </br></br>
 
