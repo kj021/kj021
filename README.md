@@ -3,7 +3,8 @@
 # KyuJin's git ✨
 항상 도전하며 <b>상상을 현실로</b> 만드는, 기록하는 개발자 <b>장규진</b>입니다.</br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?kj021=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&exclude_repo=kj021.github.io&layout=compact&theme=tokyonight" />
 </a>
