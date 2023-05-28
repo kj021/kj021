@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi I'm KyuJin 👋
 
-<!--
-**kj021/kj021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Stats
+> Generate visualizations of GitHub user and repository statistics using GitHub Actions.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg)
+
+
+
+<br/>
+
+> NOTE: This repository is my extension of [jstrieb/github-stats](https://github.com/jstrieb/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent).
+
+
+<br/>
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br/>
