@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70)
 
-HI, I"M KYUJIN
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=HI, I'm KyuJin🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&exclude_repo=kj021.github.io&layout=compact&theme=tokyonight" />
