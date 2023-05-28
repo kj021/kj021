@@ -3,13 +3,12 @@
 # ✨ KyuJin's git ✨
 <h3 align="center"항상 도전하며 <b>상상을 현실로</b> 만드는, 기록하는 개발자 <b>장규진</b>입니다.</br> </h3>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![kj021's github stats](https://github-readme-stats.vercel.app/api?username=kj021&show_icons=true)
 [![kj021's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kj021&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kj021)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kj021&theme=flat&column=7)](https://github.com/kj021/)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kj021&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💪Skills
 ### Platforms & Languages
