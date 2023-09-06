@@ -7,7 +7,6 @@
 </br></br>
 
 💻 아직 배울게 많은 AI 엔지니어입니다. <br>
-🦾 대용량 데이터 관련 NLP에 관심이 많습니다. <br>
 😎 나만의 일을 찾기위해 열심히 노력중입니다. <br>
 <br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
