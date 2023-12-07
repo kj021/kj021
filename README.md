@@ -3,11 +3,11 @@
 
 <div align="center">
  
-## 항상 도전하며 상상을 현실로 만드는 개발자 장규진입니다
+## 항상 도전하며 상상을 현실로 만드는 연구자 장규진입니다
 </br></br>
 
-💻 아직 배울게 많은 AI 엔지니어입니다. <br>
-😎 나만의 일을 찾기위해 열심히 노력중입니다. <br>
+💻 BMS System과 AI를 융합하는 연구를 하고 싶습니다. <br>
+😎 저만의 세부 연구분야를 찾기위해 열심히 노력중입니다. <br>
 <br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </br></br>
